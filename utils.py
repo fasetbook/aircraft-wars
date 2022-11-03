@@ -6,8 +6,8 @@ import threading
 import time
 import yaml
 import re
-from math import sqrt,cos,sin
 import os
+from math import sqrt,cos,sin
 import random
 
 with open("config.yml",'r')as f:
