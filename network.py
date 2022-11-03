@@ -4,7 +4,7 @@ from enum import Enum, auto
 import threading
 import time
 import utils
-
+import os
 class NetType(Enum):
     Client = 0
     Server = 1
